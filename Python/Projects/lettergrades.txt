@@ -1,0 +1,5 @@
+3 of the grades are A(s)
+3 of the grades are B(s)
+3 of the grades are C(s)
+2 of the grades are D(s)
+2 of the grades are F(s)
