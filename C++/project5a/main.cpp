@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <list>
-//AUTHOR: SHELBY JORDAN
 //DATE: OCTOBER 3, 2018
 //PROJECT 5-A
 
