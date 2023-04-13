@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <stack>
-//AUTHOR: SHELBY JORDAN
 //DATE: OCTOBER 3, 2018
 //PROJECT 5-B
 using namespace std;
