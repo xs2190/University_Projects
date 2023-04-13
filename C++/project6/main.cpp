@@ -1,6 +1,5 @@
 #include <cctype>
 #include "studentData.h"
-//AUTHOR: SHELBY JORDAN
 //DATE: OCTOBER 3, 2018
 //PROJECT 6
 using namespace std;
