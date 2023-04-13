@@ -1,7 +1,4 @@
 #!/bin/bash
-#NAME /S: Shelby Jordan
-#CS 4350 - Unix System Programming
-#Assignment Number: 2
 
 _d=$1
 
